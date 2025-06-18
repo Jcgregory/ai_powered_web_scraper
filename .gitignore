@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# Data/output
+*.json
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Tor binaries and configs
+tor/
+*.exe
+*.zip
+*.tar.gz
+
+# VSCode configs (optional)
+.vscode/
+
+# Cache / temp
+.cache/
+*.bak
+
+.venv/
+venv/
+ENV/
