@@ -11,7 +11,11 @@ import subprocess
 # Load environment variables if needed
 load_dotenv()
 
+
 # Configuration
+# NOTE: This URL is used only for testing/demo purposes.
+# Respect the content owner's terms and usage policies.
+
 seed_urls = ['https://kda-official.fandom.com/wiki/K/DA']
 visited = set()
 scraped_data = []
